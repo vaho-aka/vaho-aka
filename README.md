@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on  Enhancing my portfolio and building a food database app using React Native with Expo Router.<br>👯 I’m looking to collaborate on MERN stack projects, mobile apps with React Native, and data-driven applications.<br>🤝 I’m looking for help with Improving my freelancing strategies and reaching out to clients effectively.<br>🌱 I’m currently learning Advanced React Native techniques and exploring backend optimizations with Docker.<br>⚡ Fun fact  I’m multilingual and can communicate in English, French, Malagasy, and basic Japanese & Spanish!
 
 
